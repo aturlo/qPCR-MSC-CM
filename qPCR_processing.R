@@ -114,5 +114,5 @@ mmp3
 outl_gap <- c('P1E8')
 outl_col1 <- c('P6C7', 'P6C1', 'P6C2', 'P6C3', 'P1F10', 'P1F10')
 outl_col3 <- c('P5B12', 'P1E5', 'P1E3')
-Outl_mmp1
+Outl_mmp1 <- c('')
 Outl_mmp3 <- c('P1B4', 'P2E10')
